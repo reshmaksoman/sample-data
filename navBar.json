@@ -3,7 +3,8 @@
 	"navBarImage": "",
 	"navBarItem": [{
 			"title": "Home",
-			"iconCode": "0xe88a"
+			"iconCode": "0xe88a",
+			"file": "home.json"
 		},
 		{
 			"title": "Feedback",
