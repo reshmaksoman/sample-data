@@ -2,13 +2,16 @@
 	"navBarTitle": "Guid App",
 	"navBarImage": "",
 	"navBarItem": [{
-			"title": "Home"
+			"title": "Home",
+			"iconCode": "0xe88a"
 		},
 		{
-			"title": "Feedback"
+			"title": "Feedback",
+			"iconCode": "0xe150"
 		},
 		{
-			"title": "About"
+			"title": "About",
+			"iconCode": "0xe001"
 		}
 	]
 }
