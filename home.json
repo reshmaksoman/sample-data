@@ -1,8 +1,8 @@
 {
 	"title": "Home Data",
 	"backgroundImage": "",
-	"fontColor" : "0xFFFFFF",
-	"bgColor" : "0xFFFFFF",
+	"fontColor" : "0xFFFFA500",
+	"bgColor" : "0xFFFFA500",
 	"data": [{
 		"title": "Sub Title1",
 		"backgroundImage": "pubj.jpg",
