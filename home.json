@@ -10,6 +10,7 @@
 		"imageData": [{
 			"image": "test1.jpg",
 			"title": "Image Title 1",
+			"titleFontColor": "0xfff7eae8",
 			"description": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, "
 		}, {
 			"image": "test2.jpg",
@@ -19,6 +20,7 @@
 		}, {
 			"image": "test3.jpg",
 			"title": "Image Title 3",
+			"titleFontColor": "0xfff7eae8",
 			"description": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, "
 		}],
 		"bgColor": "",
