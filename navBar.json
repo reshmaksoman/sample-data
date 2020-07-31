@@ -8,7 +8,8 @@
 		},
 		{
 			"title": "Feedback",
-			"iconCode": "0xe150"
+			"iconCode": "0xe150",
+			"file": "feedback.json"
 		},
 		{
 			"title": "About",
