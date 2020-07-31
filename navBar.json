@@ -13,7 +13,8 @@
 		},
 		{
 			"title": "About",
-			"iconCode": "0xe001"
+			"iconCode": "0xe001",
+			"file": "home.json"
 		}
 	]
 }
