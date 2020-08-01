@@ -4,16 +4,22 @@
 	"navBarItem": [{
 			"title": "Home",
 			"iconCode": "0xe88a",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
 			"file": "home.json"
 		},
 		{
 			"title": "Feedback",
 			"iconCode": "0xe150",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
 			"file": "feedback.json"
 		},
 		{
 			"title": "About",
 			"iconCode": "0xe001",
+			"fontColor": "0xff808000",
+			"bgColor": "0xfff7eae8",
 			"file": "home.json"
 		}
 	]
