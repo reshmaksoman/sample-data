@@ -3,25 +3,31 @@
 	"backgroundImage": "",
 	"fontColor": "0xff808000",
 	"bgColor": "0xFFFFA500",
-	"bgColor": "",
-	"fontColor": "0xff99ffdd",
 	"data": [{
 		"title": "Sub Title1",
+		"gadTop": true,
+		"gadBottom": true,
 		"backgroundImage": "pubj.jpg",
 		"content": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, an enterprise or simply use it for free, MeaningCloud contemplates your case. But what exactly do you get for free? Everything! You get access to every APIs, integration within other tools and even customization options.The free version includes 20,requests per month to the APIs at a rate of 2 requests per second,along with the technical support you may need.With each request to the APIs,you may analyze up until 500 words.These limits are the only difference among the plans offered since all of them include the following features:Public APIs: tackle every aspect of text analytics with APIs specialized in topic extraction, MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, an enterprise or simply use it for free, MeaningCloud contemplates your case. But what exactly do you get for free? Everything! You get access to every APIs, integration within other tools and even customization options.The free version includes 20,requests per month to the APIs at a rate of 2 requests per second,along with the technical support you may need.With each request to the APIs,you may analyze up until 500 words.These limits are the only difference among the plans offered since all of them include the following features:Public APIs: tackle every aspect of text analytics with APIs specialized in topic extraction, MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, an enterprise or simply use it for free, MeaningCloud contemplates your case. But what exactly do you get for free? Everything! You get access to every APIs, integration within other tools and even customization options.The free version includes 20,requests per month to the APIs at a rate of 2 requests per second,along with the technical support you may need.With each request to the APIs,you may analyze up until 500 words.These limits are the only difference among the plans offered since all of them include the following features:Public APIs: tackle every aspect of text analytics with APIs specialized in topic extraction, MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, an enterprise or simply use it for free, MeaningCloud contemplates your case. But what exactly do you get for free? Everything! You get access to every APIs, integration within other tools and even customization options.The free version includes 20,requests per month to the APIs at a rate of 2 requests per second,along with the technical support you may need.With each request to the APIs,you may analyze up until 500 words.These limits are the only difference among the plans offered since all of them include the following features:Public APIs: tackle every aspect of text analytics with APIs specialized in topic extraction,",
 		"imageData": [{
 			"image": "test1.jpg",
 			"title": "Image Title 1",
 			"titleFontColor": "0xfff7eae8",
+			"gadTop": true,
+			"gadBottom": false,
 			"description": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, "
 		}, {
 			"image": "test2.jpg",
 			"titleFontColor": "0xff99ffdd",
 			"title": "Image Title 2",
+			"gadTop": false,
+			"gadBottom": true,
 			"description": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, "
 		}, {
 			"image": "test3.jpg",
 			"title": "Image Title 3",
+			"gadTop": false,
+			"gadBottom": true,
 			"titleFontColor": "0xfff7eae8",
 			"description": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, "
 		}]
@@ -31,7 +37,8 @@
 		"content": "MeaningCloud offers a solution for every situation. Whether you want to perform text analytics as a start-up, a professional, a business, an enterprise or simply use it for free, MeaningCloud contemplates your case. But what exactly do you get for free? Everything! You get access to every APIs, integration within other tools and even customization options.The free version includes 20,requests per month to the APIs at a rate of 2 requests per second,along with the technical support you may need.With each request to the APIs,you may analyze up until 500 words.These limits are the only difference among the plans offered since all of them include the following features:Public APIs: tackle every aspect of text analytics with APIs specialized in topic extraction,",
 		"image": "",
 		"bgColor": "0xff99ffdd",
-		"fontColor": "0xffff0000"
+		"fontColor": "0xffff0000",
+		"gadBottom": true
 	}]
 
 }
